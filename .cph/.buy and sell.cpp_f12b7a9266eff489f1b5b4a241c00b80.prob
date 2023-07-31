@@ -1,0 +1,1 @@
+{"name":"Local: buy and sell","url":"d:\\Documents\\CP\\buy and sell.cpp","tests":[{"id":1662188055631,"input":"7\n100 180 260 310 40 535 695","output":"0 3\n4 6"},{"id":1662188510056,"input":"5\n4 2 2 2 4","output":"3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CP\\buy and sell.cpp","group":"local","local":true}

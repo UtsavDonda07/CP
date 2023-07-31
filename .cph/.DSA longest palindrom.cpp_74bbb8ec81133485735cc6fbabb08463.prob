@@ -1,0 +1,1 @@
+{"name":"Local: DSA longest palindrom","url":"d:\\Documents\\CP\\DSA longest palindrom.cpp","tests":[{"id":1669037932261,"input":"aaaabbaa","output":""},{"id":1669041911896,"input":"abcdabbcccdddd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CP\\DSA longest palindrom.cpp","group":"local","local":true}

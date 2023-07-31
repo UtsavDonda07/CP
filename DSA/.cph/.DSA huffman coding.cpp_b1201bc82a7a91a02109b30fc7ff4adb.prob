@@ -1,0 +1,1 @@
+{"name":"Local: DSA huffman coding","url":"d:\\Documents\\CP\\DSA\\DSA huffman coding.cpp","tests":[{"id":1681474969211,"input":"1\nabc\n5 1 3","output":""},{"id":1681476723378,"input":"1\nabcdef\n5 9 12 13 16 45","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CP\\DSA\\DSA huffman coding.cpp","group":"local","local":true}

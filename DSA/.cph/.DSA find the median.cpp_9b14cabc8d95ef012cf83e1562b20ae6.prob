@@ -1,0 +1,1 @@
+{"name":"Local: DSA find the median","url":"d:\\Documents\\CP\\DSA\\DSA find the median.cpp","tests":[{"id":1667884098352,"input":"5\n78 67 89 100 90","output":""},{"id":1667884481603,"input":"4\n67 56 30 79","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CP\\DSA\\DSA find the median.cpp","group":"local","local":true}

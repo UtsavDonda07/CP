@@ -1,0 +1,1 @@
+{"name":"Local: DSA Smallest subarray","url":"d:\\Documents\\CP\\DSA Smallest subarray.cpp","tests":[{"id":1669376427647,"input":"6 51\n1 4 45 6 0 19","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CP\\DSA Smallest subarray.cpp","group":"local","local":true}

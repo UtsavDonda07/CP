@@ -1,0 +1,1 @@
+{"name":"Local: DSA find duplicate","url":"d:\\Documents\\CP\\DSA\\DSA find duplicate.cpp","tests":[{"id":1667802045656,"input":"1\n4\n0 1 2 1","output":""},{"id":1667802101973,"input":"1\n5\n2 3 1 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CP\\DSA\\DSA find duplicate.cpp","group":"local","local":true}

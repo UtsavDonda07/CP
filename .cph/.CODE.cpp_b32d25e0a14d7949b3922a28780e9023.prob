@@ -1,0 +1,1 @@
+{"name":"Local: CODE","url":"d:\\Premiere Pro\\CP\\CODE.cpp","tests":[{"id":1673934709811,"input":"4\n1 1 2\n3 7 3\n4 4 4\n1 2 3","output":""},{"id":1678779645170,"input":"1\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Premiere Pro\\CP\\CODE.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: DSA bitmanipulation","url":"d:\\Documents\\CP\\DSA bitmanipulation.cpp","tests":[{"id":1669270814671,"input":"1\n2\n1 2 3 2 1 4","output":""},{"id":1669271661284,"input":"1\n5\n7 6 25 4 25 15 15 7 4 3 29 6","output":"3 29"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CP\\DSA bitmanipulation.cpp","group":"local","local":true}

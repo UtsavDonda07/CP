@@ -1,0 +1,1 @@
+{"name":"Local: DSA missing number in array","url":"d:\\Documents\\CP\\DSA\\DSA missing number in array.cpp","tests":[{"id":1667795622594,"input":"4\n2 3 4","output":""},{"id":1667795984238,"input":"7\n1 3 2 6 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CP\\DSA\\DSA missing number in array.cpp","group":"local","local":true}

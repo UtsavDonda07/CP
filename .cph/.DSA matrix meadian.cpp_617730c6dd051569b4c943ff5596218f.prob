@@ -1,0 +1,1 @@
+{"name":"Local: DSA matrix meadian","url":"d:\\Documents\\CP\\DSA matrix meadian.cpp","tests":[{"id":1670048550129,"input":"1\n3 3\n1 3 5\n2 6 9\n3 6 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CP\\DSA matrix meadian.cpp","group":"local","local":true}

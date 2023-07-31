@@ -1,0 +1,1 @@
+{"name":"Local: DSA isomorphic","url":"d:\\Documents\\CP\\DSA isomorphic.cpp","tests":[{"id":1669052170628,"input":"abc xxy","output":""},{"id":1669052465220,"input":"rfkqyuqf jkxyqvnr","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CP\\DSA isomorphic.cpp","group":"local","local":true}

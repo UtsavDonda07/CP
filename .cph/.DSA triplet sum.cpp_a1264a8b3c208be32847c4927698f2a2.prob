@@ -1,0 +1,1 @@
+{"name":"Local: DSA triplet sum","url":"d:\\Documents\\CP\\DSA triplet sum.cpp","tests":[{"id":1667489563870,"input":"6 13\n1 4 45 6 10 8","output":""},{"id":1667490455415,"input":"4 3\n1 2 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CP\\DSA triplet sum.cpp","group":"local","local":true}
